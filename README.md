@@ -1,1 +1,1 @@
-# Snack Game
+# Snake Game
